@@ -7,4 +7,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the grocery/shopping industry. We can examine purchases and use data science to analyze and find hidden patterns which can then be used to boost sales and improve inventory tracking.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge combines branch histories by creating a new merge commit, preserving the exact record of how the work happened. Rebase rewrites the history by moving your feature branch's commits to the main branch, creating a cleaner timeline.
 
