@@ -1,4 +1,10 @@
+
 Q1: Why might we consider using Git?
 
 Answer: Git is a widely used tool among the tech industry which allows users to have detailed and complete history of a projects code and its updates. This allows for collaborators and teams to work together and test new ideas smoothly, without having to worry about overwrites and other potential issues.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to the grocery/shopping industry. We can examine purchases and use data science to analyze and find hidden patterns which can then be used to boost sales and improve inventory tracking.
+
 
