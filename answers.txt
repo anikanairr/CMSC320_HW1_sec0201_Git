@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge combines branch histories by creating a new merge commit, preserving the exact record of how the work happened. Rebase rewrites the history by moving your feature branch's commits to the main branch, creating a cleaner timeline.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to how data science can be used in different contexts and industries and becoming more comfortable using tools like Git.
+
